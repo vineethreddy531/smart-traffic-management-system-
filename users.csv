@@ -1,4 +1,0 @@
-user_id,name,email,phone,password,car_model,seats_offered
-1,Alice Johnson,alice@example.com,9876543210,password123,Toyota Corolla,3
-2,Bob Smith,bob@example.com,8765432109,securepass,Honda City,2
-3,Charlie Brown,charlie@example.com,7654321098,mypassword,Ford EcoSport,4
