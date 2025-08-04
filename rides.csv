@@ -1,4 +1,0 @@
-ride_id,user_id,origin,destination,date,time,seats_available,price,status
-101,1,Hyderabad,Mumbai,2025-03-01,08:00 AM,2,1500,Scheduled
-102,2,Bangalore,Delhi,2025-03-02,09:30 AM,1,2000,Scheduled
-103,3,Chennai,Kolkata,2025-03-03,06:00 PM,3,1800,Scheduled
