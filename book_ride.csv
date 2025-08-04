@@ -1,5 +1,0 @@
-user,origin,destination,time,seats,price,status
-user 1,hyderabad,mumbai,10:00 AM,2,2500,available
-user 2,delhi,bangalore,1:00 PM,3,2501,available
-user 3,bangalore,hyderabad,6:00 AM,4,2502,pending
-user4,krishnareddypetta,hydrabad,5:00pm,5,2503,available
